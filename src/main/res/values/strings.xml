@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vancouver Busses</string>
+    <string name="title_activity_maps">BusMap</string>
+</resources>
