@@ -1,0 +1,7 @@
+/build
+/src/debug/res/values/google_maps_api.xml
+/src/release/res/values/google_maps_api.xml
+/src/main/res/values/translink_open_api.xml
+app.iml
+build.gradle
+proguard-rules.pro
